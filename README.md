@@ -1,6 +1,8 @@
 # Drowsiness-Detection-and-Alert
 This project is a Drowsiness Detection and Alert System built using Python and computer vision techniques. It detects if a person (typically a driver) is drowsy based on eye blink patterns and generates an alert sound to prevent potential accidents.
 
+## (download shape_predictor_68_face_landmarks.dat file from https://huggingface.co/public-data/dlib_face_landmark_model/blob/main/shape_predictor_68_face_landmarks.dat)
+
 ## Features
 - Real-time monitoring of a person's eyes through the camera feed.
 - Detects if the person is drowsy based on eye closure duration.
